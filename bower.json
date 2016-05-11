@@ -1,5 +1,5 @@
 {
-  "name": "ramda-import",
+  "name": "highland-import",
   "version": "0.0.1",
   "description": "Dedupe support for Highland.js dependency.",
   "keywords": [
